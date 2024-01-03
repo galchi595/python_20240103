@@ -1,0 +1,7 @@
+n=input("이름")
+m=input("mbti")
+f=input("좋아하는 음식")
+print(f"이름 {n} mbti {m} 좋아하는 음식 {f}")
+mo=input("영화")
+ott=input("ott")
+print(f"최근에 본 영화 {mo} ott 프로그램 {ott}")
